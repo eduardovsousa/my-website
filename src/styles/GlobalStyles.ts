@@ -42,7 +42,7 @@ export const GlobalStyles = createGlobalStyle`
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url("/src/assets/bg/bg-texture.png");
+    background-image: url("/src/assets/bg/bgTexture.png");
   }
 
   button {
