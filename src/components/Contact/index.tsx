@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import React from 'react';
 import {
   ContactContainer,
@@ -14,9 +15,10 @@ import emailjs from 'emailjs-com';
 export function Contact() {
   const form = useRef();
 
+  // @ts-ignore
   const sendEmail = (e) => {
     e.preventDefault();
-
+    // @ts-ignore
     emailjs.sendForm('service_7m6opza', 'template_jifm6y8', form.current, 'JgU2beBR_vPZSaaMH');
 
     e.target.reset();
@@ -51,6 +53,7 @@ export function Contact() {
             </ContactOption>
           </ContactOptions>
 
+          {/* @ts-ignore */}
           <Form ref={form} onSubmit={sendEmail}>
             <input
               type="text"
