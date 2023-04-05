@@ -6,16 +6,16 @@ import {
   PortfolioItemImage,
   Section,
 } from './styles';
-import IMG1 from '../../assets/images/portfolio1.png';
-import IMG2 from '../../assets/images/portfolio2.png';
-import IMG3 from '../../assets/images/portfolio3.png';
-import IMG4 from '../../assets/images/portfolio4.png';
-import IMG5 from '../../assets/images/portfolio5.png';
-import IMG6 from '../../assets/images/portfolio6.jpg';
-import IMG7 from '../../assets/images/portfolio7.png';
-import IMG8 from '../../assets/images/portfolio8.png';
-import IMG9 from '../../assets/images/portfolio9.png';
-import IMG10 from '../../assets/images/portfolio10.jpg';
+import IMG1 from '../../assets/portfolio/portfolio1.png';
+import IMG2 from '../../assets/portfolio/portfolio2.png';
+import IMG3 from '../../assets/portfolio/portfolio3.png';
+import IMG4 from '../../assets/portfolio/portfolio4.png';
+import IMG5 from '../../assets/portfolio/portfolio5.png';
+import IMG6 from '../../assets/portfolio/portfolio6.jpg';
+import IMG7 from '../../assets/portfolio/portfolio7.png';
+import IMG8 from '../../assets/portfolio/portfolio8.png';
+import IMG9 from '../../assets/portfolio/portfolio9.png';
+import IMG10 from '../../assets/portfolio/portfolio10.jpg';
 
 const data = [
   {
