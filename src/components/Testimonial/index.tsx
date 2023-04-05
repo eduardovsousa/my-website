@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container, Section, TestimonialAvatar } from './styles';
 import AVTR1 from '../../assets/images/avatar1.jpg';
 import AVTR2 from '/logo.png';

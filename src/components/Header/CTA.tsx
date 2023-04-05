@@ -1,4 +1,3 @@
-import React from 'react';
 import CV from '../../assets/cv/CV.pdf';
 import { CTAContent } from './styles';
 

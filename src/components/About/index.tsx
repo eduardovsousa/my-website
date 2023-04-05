@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   AboutCard,
   AboutCards,
@@ -7,7 +6,7 @@ import {
   Container,
   Section,
 } from './styles';
-import ME from '../../assets/images/MeFace.png';
+import ME from '../../assets/images/meFace.png';
 import { FaAward } from 'react-icons/fa';
 import { BsPersonWorkspace } from 'react-icons/bs';
 import { VscFolderLibrary } from 'react-icons/vsc';

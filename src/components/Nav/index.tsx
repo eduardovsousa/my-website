@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container } from './styles';
 import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai';
 import { BiBook, BiMessageSquareDetail } from 'react-icons/bi';

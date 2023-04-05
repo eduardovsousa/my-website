@@ -1,4 +1,3 @@
-import React from 'react';
 import { Backend, Container, ContainerExperience, ExperienceContent, ExperienceDetails, Frontend, Section } from './styles';
 import {BsFillPatchCheckFill} from 'react-icons/bs';
 
