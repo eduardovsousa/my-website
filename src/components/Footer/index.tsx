@@ -2,16 +2,18 @@ import { Container } from './styles';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 export function Footer() {
+  const evs = '<Evs />';
+
   return (
     <Container>
-      <a href="#" className='footer-logo'>EvS</a>
+      <a href="#" className='footer-logo'>{evs}</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
         <li><a href="#about">Sobre</a></li>
         <li><a href="#experience">Experiência</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testmonials">Hoje</a></li>
+        <li><a href="#testimonials">Hoje</a></li>
         <li><a href="#contact">Contato</a></li>
       </ul>
 
@@ -21,7 +23,7 @@ export function Footer() {
       </div>
 
       <div className="footer-copyright">
-        <small>&copy; EvS - Todos os direitos reservados.</small>
+        <small>&copy; {evs} - Todos os direitos reservados.</small>
       </div>
     </Container>
   );

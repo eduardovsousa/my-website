@@ -1,12 +1,12 @@
 import { CTA } from './CTA';
 import ME from '../../assets/images/me.png';
 import { HeaderSocial } from './HeaderSocial';
-import { Container, Content, MEContent, ScrollDown } from './styles';
+import { Container, HeaderContainer, Content, MEContent, ScrollDown } from './styles';
 
 export function Header() {
   return (
-    <>
-      <Container className='container'>
+    <Container className='container'>
+      <HeaderContainer >
         <Content >
           <h5>Olá, sou o</h5>
           <h1>Eduardo Varela</h1>
@@ -22,7 +22,7 @@ export function Header() {
             <a href="#contact">Scroll Down</a>
           </ScrollDown>
         </Content>
-      </Container>
-    </>
+      </HeaderContainer>
+    </Container>
   );
 }

@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
-export const Container = styled.header`
+export const Container = styled.section``;
+
+export const HeaderContainer = styled.header`
   height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
@@ -13,6 +15,8 @@ export const Container = styled.header`
 
   @media screen and (max-width: 600px){
     height: 100vh;
+    padding-top: 1rem;
+    overflow: visible;
   }
 `;
 
@@ -28,6 +32,12 @@ export const CTAContent = styled.div`
   display: flex;
   gap: 1.2rem;
   justify-content: center;
+
+  > .btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 `;
 
 /* =================== HEADER SOCIAL =================== */
@@ -67,6 +77,17 @@ export const MEContent = styled.div`
   > img {
     width: 16rem;
     margin: auto;
+  }
+
+  @media screen and (max-width: 600px){
+    > img {
+      width: 12rem;
+      margin-top: -1.5rem;
+    }
+
+    align-items: center;
+      justify-content: center;
+      display: flex;
   }
 `;
 

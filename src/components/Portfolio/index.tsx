@@ -123,7 +123,7 @@ export function Portfolio() {
                     rel="noreferrer"
                     ref={btnGithub}
                   >
-                    Clique aqui para saber mais
+                    Saiba mais
                   </a>
                   {/* Criar um component */}
                   {/* <a

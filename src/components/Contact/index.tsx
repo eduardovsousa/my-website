@@ -18,7 +18,7 @@ export function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
     // @ts-ignore
-    emailjs.sendForm('service_7m6opza', 'template_jifm6y8', form.current, 'JgU2beBR_vPZSaaMH');
+    emailjs.sendForm('service_3m5fy6n', 'template_bl4jp2f', form.current, 'C4dgFXu_10rvtFCjd');
 
     e.target.reset();
   };
@@ -34,8 +34,8 @@ export function Contact() {
             <ContactOption>
               <MdOutlineEmail className="Icon" />
               <h4>E-mail</h4>
-              <h5>eduardovsousadeveloper<br/>@outlook.com</h5>
-              <a href="mailto:eduardovsousadeveloper@outlook.com">Mande uma mensagem</a>
+              <h5>devevs@outlook.com.br</h5>
+              <a href="mailto:devevs@outlook.com.br?subject=Contato para dúvidas&body=Escreva sua mensagem aqui 🙋‍♂️">Mande uma mensagem</a>
             </ContactOption>
 
             <ContactOption>

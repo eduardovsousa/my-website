@@ -8,7 +8,7 @@ export function HeaderSocial() {
     <HeaderSocialContent>
       <a href="https://www.linkedin.com/in/eduardovsousa/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
       <a href="https://github.com/eduardovsousa" target="_blank" rel="noreferrer" ><FaGithub /></a>
-      <a href="mailto:eduardovsousadeveloper@outlook.com?subject=Contato para dúvidas&body=Escreva sua mensagem aqui 🙋‍♂️" target="_blank" rel="noreferrer" ><MdEmail /></a>
+      <a href="mailto:devevs@outlook.com.br?subject=Contato para dúvidas&body=Escreva sua mensagem aqui 🙋‍♂️" target="_blank" rel="noreferrer" ><MdEmail /></a>
     </HeaderSocialContent>
   );
 }

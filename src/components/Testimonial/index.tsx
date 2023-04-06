@@ -20,7 +20,7 @@ const data =[
   {
     avatar: AVTR2,
     name: 'Freelancer',
-    review: 'Sempre em busca de novas oportunidades para desenvolvedor o melhor conteúdo para os meus clientes. aso haja interesse, entre em contato!'
+    review: 'Sempre em busca de novas oportunidades para desenvolver o melhor conteúdo para os meus clientes. Caso haja interesse, entre em contato!'
   },
 ];
 
