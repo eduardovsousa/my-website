@@ -5,7 +5,6 @@ export const Container = styled.section``;
 export const HeaderContainer = styled.header`
   height: 100vh;
   padding-top: 7rem;
-  overflow: hidden;
   width: var(--container-width-lg);
   margin: 0 auto;
 

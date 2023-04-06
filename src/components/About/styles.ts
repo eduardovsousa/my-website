@@ -34,6 +34,12 @@ export const AboutMe = styled.div`
     transform: rotate(0deg);
   }
 
+  @media screen and (max-width: 1440px){
+    > img {
+      width: 16rem;
+    }
+  }
+
   @media screen and (max-width: 1024px){
     width: 50%;
     margin: 2rem auto 4rem;
