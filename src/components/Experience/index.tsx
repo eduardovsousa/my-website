@@ -22,14 +22,14 @@ export function Experience() {
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
-                  <h4>Styled-components</h4>
+                  <h4>JavaScript</h4>
                   {/* <small className='text-light'>Experiente</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
-                  <h4>JavaScrit</h4>
+                  <h4>React</h4>
                   {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>
@@ -50,7 +50,7 @@ export function Experience() {
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
-                  <h4>React</h4>
+                  <h4>Styled-components</h4>
                   {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>

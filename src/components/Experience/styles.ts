@@ -76,4 +76,13 @@ export const ExperienceDetails = styled.article`
     margin-top: 6px;
     color: var(--color-primary);
   }
+
+  @media screen and (max-width: 600px) {
+    > .Icon {
+      min-width: 16px;
+      min-height: 16px;
+    }
+
+    gap: 0.5rem;
+  }
 `;
