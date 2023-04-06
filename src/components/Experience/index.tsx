@@ -22,7 +22,7 @@ export function Experience() {
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
-                  <h4>CSS</h4>
+                  <h4>Styled-components</h4>
                   {/* <small className='text-light'>Experiente</small> */}
                 </div>
               </ExperienceDetails>

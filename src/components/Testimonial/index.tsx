@@ -15,7 +15,7 @@ const data =[
   {
     avatar: AVTR1,
     name: 'Desenvolvedor',
-    review: 'Atualmente estou trabalhando em desenvolvimentos de sites responsivos para o comercio atacadista de supermercados, onde criamos campanhas promocionais'
+    review: 'Atualmente, estou trabalhando com desenvolvimento de sites responsivos para o comércio atacadista de supermercados, onde criamos campanhas promocionais e concursos.'
   },
   {
     avatar: AVTR2,
