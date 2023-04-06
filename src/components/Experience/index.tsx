@@ -16,42 +16,42 @@ export function Experience() {
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>HTML</h4>
-                  <small className='text-light'>Experiente</small>
+                  {/* <small className='text-light'>Experiente</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>CSS</h4>
-                  <small className='text-light'>Experiente</small>
+                  {/* <small className='text-light'>Experiente</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>JavaScrit</h4>
-                  <small className='text-light'>Intermediário</small>
+                  {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>Bootstrap</h4>
-                  <small className='text-light'>Experiente</small>
+                  {/* <small className='text-light'>Experiente</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>React Native</h4>
-                  <small className='text-light'>Básico</small>
+                  {/* <small className='text-light'>Básico</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>React</h4>
-                  <small className='text-light'>Intermediário</small>
+                  {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>
             </ExperienceContent>
@@ -64,42 +64,42 @@ export function Experience() {
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>NodeJs</h4>
-                  <small className='text-light'>Intermediário</small>
+                  {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>MongoDB</h4>
-                  <small className='text-light'>Básico</small>
+                  {/* <small className='text-light'>Básico</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>PHP</h4>
-                  <small className='text-light'>Básico</small>
+                  {/* <small className='text-light'>Básico</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>MySQL</h4>
-                  <small className='text-light'>Básico</small>
+                  {/* <small className='text-light'>Básico</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>Java</h4>
-                  <small className='text-light'>Intermediário</small>
+                  {/* <small className='text-light'>Intermediário</small> */}
                 </div>
               </ExperienceDetails>
               <ExperienceDetails>
                 <BsFillPatchCheckFill className='Icon'/>
                 <div className="">
                   <h4>Prisma</h4>
-                  <small className='text-light'>Básico</small>
+                  {/* <small className='text-light'>Básico</small> */}
                 </div>
               </ExperienceDetails>
             </ExperienceContent>
