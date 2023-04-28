@@ -1,5 +1,5 @@
-#Porfólio - Landing Page
+# Porfólio - Landing Page
 
-Porfólio simples feito com React, TypeScript e styled-components.
+Porfólio simples e objetivo, feito com React, TypeScript e styled-components.
 
 ![](public/site.png)
