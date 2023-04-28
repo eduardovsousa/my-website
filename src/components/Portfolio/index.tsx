@@ -8,14 +8,13 @@ import {
 } from './styles';
 import IMG1 from '../../assets/portfolio/portfolio1.png';
 import IMG2 from '../../assets/portfolio/portfolio2.png';
-import IMG3 from '../../assets/portfolio/portfolio3.png';
+import IMG3 from '../../assets/portfolio/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio/portfolio4.png';
 import IMG5 from '../../assets/portfolio/portfolio5.png';
 import IMG6 from '../../assets/portfolio/portfolio6.jpg';
 import IMG7 from '../../assets/portfolio/portfolio7.png';
 import IMG8 from '../../assets/portfolio/portfolio8.png';
 import IMG9 from '../../assets/portfolio/portfolio9.png';
-import IMG10 from '../../assets/portfolio/portfolio10.jpg';
 
 const data = [
   {
@@ -36,8 +35,8 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Design System',
-    github: 'https://github.com/eduardovsousa/ignite-lab-design-system',
+    title: 'WaiterApp',
+    github: 'https://github.com/eduardovsousa/WaiterApp',
     // demo: 'No',
   },
 
@@ -83,14 +82,7 @@ const data = [
     title: 'Sonic Toys E-commerce',
     github: 'https://sonictoys.com.br/',
     // demo: 'https://sonictoys.com.br/',
-  },
-  {
-    id: 10,
-    image: IMG10,
-    title: 'WaiterApp',
-    github: 'https://github.com/eduardovsousa/WaiterApp',
-    // demo: 'No',
-  },
+  }
 ];
 
 export function Portfolio() {
